@@ -96,7 +96,7 @@ if selected == "RoK Analytics":
         - Do not change the number format!
         - Do not leave empty cells who has Username!
         - Donate to Dio https://patreon.com/OtaldoDio?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
-        - Template Link = 'https://rb.gy/cgzq36'
+        - Template Link = 'https://docs.google.com/spreadsheets/d/1bHsv_XTczxygRScEaYpaMt1tm7zhvrG7/edit?usp=sharing&ouid=104585828624650926771&rtpof=true&sd=true'
 
         """
     ### --- LOAD DATAFRAME
