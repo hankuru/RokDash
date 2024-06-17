@@ -2808,7 +2808,7 @@ if selected == "Contact":
         st.write("")
         st.subheader(":mailbox: Any Question? Ask Away 🙌")
         contact_form = f"""
-        <form action="https://formsubmit.co/{"usman.mustafa88@gmail.com"}" method="POST">
+        <form action=""}" method="POST">
             <input type="hidden" name="_captcha" value="false">
             <input type="text" name="name" placeholder="Your name" required>
             <input type="email" name="email" placeholder="Your email" required>
