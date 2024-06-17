@@ -104,7 +104,7 @@ if selected == "RoK Analytics":
         st.info(temp_DESC)
         components.html(
             """
-            <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="TafaSensei" data-color="#FF5F5F" data-emoji="🎁"  data-font="Cookie" data-text="Buy me a Gold Chest" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+            <script type="text/javascript" src="https://patreon.com/OtaldoDio?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" data-name="bmc-button" data-slug="Dio" data-color="#FF5F5F" data-emoji="🎁"  data-font="Cookie" data-text="Give money to dio" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
             """
         )
     with col2:
