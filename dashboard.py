@@ -95,6 +95,7 @@ if selected == "RoK Analytics":
         - Fill only 300 players
         - Do not change the number format!
         - Do not leave empty cells who has Username!
+        - Donate to Dio https://patreon.com/OtaldoDio?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
         - Template Link = 'https://rb.gy/cgzq36'
 
         """
